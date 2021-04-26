@@ -1,0 +1,272 @@
+031: Poljoprivredni i hortikulturni proizvodi
+032: Žitarice, krompir, povrće, voće i orašasti plodovi
+033: Proizvodi stočarstva, lova i ribolova
+034: Proizvodi šumarstva i seče drva
+091: Goriva
+092: Proizvodi od nafte, uglja i ulja
+093: Električna energija, energija za grejanje, solarna i nuklearna energija
+142: Pesak i glina
+143: Minerali za hemijsku industriju i veštačka đubriva
+144: So i čisti natrijum hlorid
+145: Proizvodi srodni rudarstvu i eksploataciji kamena
+146: Rude i legure metala
+147: Prosti metali
+148: Razni nemetalni mineralni proizvodi
+149: Obnovljene sekundarne sirovine
+151: Proizvodi životinjskog porekla, meso i mesni proizvodi
+152: Pripremljena i konzervisana riba
+153: Voće, povrće i srodni proizvodi
+154: Životinjska ili biljna ulja i masti
+155: Mlečni proizvodi
+156: Mlinarski proizvodi, skrob i skrobni proizvodi
+157: Hrana za životinje
+158: Razni prehrambeni proizvodi
+159: Pića, duvan i srodni proizvodi
+161: Mašine za pripremanje i kultivisanje zemlje u poljoprivredi i šumarstvu
+163: Mašine za berbu ili žetvu
+164: Prskalice za poljoprivredu ili hortikulturu
+165: Samoutovarne ili istovarne prikolice i poluprikolice za poljoprivredne namene
+166: Specijalne poljoprivredne ili šumarske mašine
+167: Traktori
+168: Delovi mašina za poljoprivredu i šumarstvo
+181: Radna odeća, specijalna radna odeća i prateća oprema
+182: Odeća za spoljne uslove
+183: Odevni predmeti
+184: Posebna odeća i prateća oprema
+185: Nakit, satovi i srodni proizvodi
+186: Krzna i proizvodi od krzna
+188: Obuća
+189: Prtljag, sedlarski proizvodi, vreće i torbe
+191: Koža
+192: Tkanine od tekstila i srodni proizvodi
+194: Tekstilna prediva i konac
+195: Gumeni i plastični materijali
+196: Kožni, tekstilni, gumeni i plastični otpad
+197: Sintetička guma i vlakna
+221: Štampane knjige, brošure i leci
+222: Novine, revije, periodične publikacije i časopisi
+223: Razglednice, čestitke i drugi štampani materijal
+224: Marke, čekovi, novčanice, potvrde o izdatim deonicama, trgovački reklamni materijal, katalozi i priručnici
+225: Štamparske ploče ili valjci ili druge podloge koje se koriste u štampanju
+226: Mastilo
+228: Registratori od hartije ili kartona, računovodstvene knjige, fascikle, obrasci i drugi štampani kancelarijski materijal
+229: Razni štampani materijal
+241: Gasovi
+242: Boje i pigmenti
+243: Osnovne neorganske i organske hemikalije
+244: Đubriva i azotna jedinjenja
+245: Plastične mase u primarnim oblicima
+246: Eksplozivi
+249: Fini i razni hemijski proizvodi
+301: Kancelarijske mašine, oprema i zalihe osim računara, štampača i nameštaja
+302: Računarska oprema i materijal
+311: Električni motori, generatori i transformatori
+312: Aparati za kontrolu i distribuciju električne energije
+313: Izolovana žica i kablovi
+314: Akumulatori, primarne ćelije i primarne baterije
+315: Rasvetna oprema i električne svetiljke
+316: Električna oprema i aparati
+317: Elektronski, elektromehanički i elektrotehnički materijal
+322: Predajnici za radio-telefoniju, radio-telegrafiju, radio-difuziju i televiziju
+323: Televizijski i radio prijemnici i uređaji za snimanje ili reprodukciju zvuka ili slike
+324: Mreže
+325: Telekomunikaciona oprema i materijal
+331: Medicinska oprema
+336: Farmaceutski proizvodi
+337: Proizvodi za ličnu negu
+339: Oprema i materijal za obdukcije i mrtvačnice
+341: Motorna vozila
+342: Karoserije za vozila, prikolice ili poluprikolice
+343: Delovi i pribor za vozila i njihove motore
+344: Motocikli, bicikli i bočne prikolice
+345: Brodovi i čamci
+346: Železničke i tramvajske lokomotive i šinska vozila i pripadajući delovi
+347: Vazduhoplovi i svemirske letelice
+349: Razna oprema za prevoz i rezervni delovi
+351: Sigurnosna oprema i oprema za vanredne situacije
+352: Policijska oprema
+353: Oružje, municija i pripadajući delovi
+354: Vojna vozila i pripadajući delovi
+355: Ratni brodovi i pripadajući delovi
+356: Vojni avioni, rakete i svemirske letelice
+357: Vojni elektronski sistemi
+358: Individualna oprema i oprema za podršku
+373: Muzički instrumenti i delovi
+374: Sportska roba i oprema
+375: Igrice i igračke; predmeti u zabavnim parkovima
+378: Materijal za ručni rad i umetničko stvaranje
+381: Navigacioni i meteorološki instrumenti
+382: Geološki i geofizički instrumenti
+383: Merni instrumenti
+384: Instrumenti za proveru fizičkih svojstava
+385: Aparati za proveru i ispitivanje
+386: Optički instrumenti
+387: Uređaji za beleženje vremena i slični aparati; parking satovi
+388: Oprema za upravljanje industrijskim procesima i oprema za daljinsko upravljanje
+389: Razni instrumenti za merenje ili ispitivanje
+391: Nameštaj
+392: Proizvodi za unutrašnje opremanje
+393: Razna oprema
+395: Tekstilni proizvodi
+397: Aparati za domaćinstvo
+398: Proizvodi za čišćenje i poliranje
+411: Prirodna voda
+421: Mašine za proizvodnju i korišćenje mehaničke energije
+422: Mašine za preradu hrane, pića i duvana i pripadajući delovi
+423: Industrijske ili laboratorijske peći, peći za spaljivanje i pećnice
+424: Oprema za dizanje i rukovanje teretom i delovi
+425: Rashladni uređaji i oprema za ventilaciju
+426: Mašine alatke
+427: Mašine za proizvodnju tekstila, odeće i kože
+428: Mašine za proizvodnju hartije  ili kartona
+429: Razni uređaji opšte i posebne namene
+431: Rudarska oprema
+432: Mašine za zemljane radove i iskopavanje i pripadajući delovi
+433: Građevinske mašine i oprema
+434: Mašine za preradu minerala i izradu livničkih kalupa
+435: Vozila za polaganje koloseka
+436: Delovi mašina za rudarstvo, kamenolome i građevinarstvo
+437: Mašine za metalurgiju i pripadajući delovi
+438: Oprema za radionice
+441: Građevinski materijali i pripadajući proizvodi
+442: Konstrukcioni proizvodi
+443: Kablovi, žice i srodni proizvodi
+444: Razni gotovi proizvodi i srodni artikli
+445: Alati, brave, ključevi, šarke, spojni elementi, lanci i opruge
+446: Cisterne, rezervoari i kontejneri; radijatori za centralno grejanje i kotlovi
+448: Boje, lakovi i smole
+449: Građevinski kamen, krečnjak, gips i škriljac
+451: Priprema gradilišta
+452: Radovi na objektima ili delovima objekata visokogradnje i niskogradnje
+453: Radovi na građevinskim instalacijama
+454: Završni građevinski radovi
+455: Iznajmljivanje mehanizacije i opreme za visokogradnju i niskogradnju sa operaterom
+481: Programski paketi za industriju
+482: Programski paket za umrežavanje, internet i intranet
+483: Programski paket za izradu dokumenata, crtanje, slikovni prikaz, vremensko planiranje i produktivnost
+484: Programski paket za poslovne transakcije i lično poslovanje
+485: Komunikacioni i multimedijski programski paket
+486: Programski paket za baze podataka i operativni programski paket
+487: Podrška programskih paketa
+488: Informacioni sistemi i serveri
+489: Razni programski paketi i računarski sistemi
+501: Usluge popravki, održavanja i srodne usluge za vozila i pripadajuću opremu
+502: Usluge popravke, održavanja i srodne usluge za opremu vazduhoplova, železničkih pruga, puteva i pomorske opreme
+503: Usluge popravke, održavanja i srodne usluge za personalne računare, kancelarijsku opremu, telekomunikacije i audiovizuelnu opremu
+504: Usluge popravke i održavanja medicinske i precizne opreme
+505: Usluge popravke i održavanja pumpi, ventila, slavina i metalnih kontejnera i uređaja
+506: Usluge popravke i održavanja odbrambenih i bezbednosnih sredstava
+507: Usluge popravke i održavanja instalacija u zgradama
+508: Razne usluge popravke i održavanja
+511: Usluge instaliranja električne i mehaničke opreme
+512: Usluge instaliranja opreme za merenje, kontrolu, ispitivanje i navigaciju
+513: Usluge instaliranja komunikacione opreme
+514: Usluge instaliranja medicinske i hirurške opreme
+515: Usluge instaliranja uređaja i opreme
+516: Usluge instaliranja računara i kancelarijske opreme
+517: Usluge instaliranja opreme za zaštitu od požara
+518: Usluge instaliranja metalnih kontejnera
+519: Usluge instaliranja sistema vođenja i upravljanja
+551: Hotelske usluge
+552: Kampovi i drugi smeštaj izuzev hotelskog
+553: Usluge restorana i usluge posluživanja hranom
+554: Usluge posluživanja pića i napitaka
+555: Usluge menze i usluge dostavljanja pripremljenih obroka
+559: Usluge trgovine na malo
+601: Usluge drumskog prevoza
+602: Usluge železničkog prevoza
+603: Usluge cevovodnog transporta
+604: Usluge avio-prevoza
+605: Usluge svemirskog prevoza
+606: Usluge prevoza vodnim putevima
+631: Usluge rukovanja teretom i skladištenja tereta
+635: Usluge putničkih agencija i tur-operatera i usluge pomoći turistima
+637: Prateće usluge u kopnenom, vodenom i avio-prevozu
+641: Poštanske i kurirske usluge
+642: Telekomunikacione usluge
+651: Distribucija vode i povezane usluge
+652: Distribucija gasa i povezane usluge
+653: Distribucija električne energije i povezane usluge
+654: Ostali izvori snabdevanja i distribucije energije
+655: Očitavanje brojila
+661: Bankarske i investicione usluge
+665: Usluge osiguranja i penzijske usluge
+666: Usluge trezora
+667: Usluge reosiguranja
+701: Usluge poslovanja nekretninama sa vlastitom imovinom
+702: Usluge davanja vlastite imovine u zakup ili na lizing
+703: Agencijske usluge u poslovanju nekretninama po osnovu provizije ili po osnovu ugovora
+712: Arhitektonske i srodne usluge
+713: Tehničke usluge
+714: Usluge prostornog planiranja i pejzažne arhitekture
+715: Usluge u vezi sa građevinarstvom
+716: Usluge tehničkog ispitivanja, analize i konsaltinga
+717: Usluge praćenja i nadzora
+718: Savetodavne usluge za vodosnabdevanje i otpadne vode
+719: Laboratorijske usluge
+721: Savetodavne usluge u vezi sa hardverom
+722: Usluge programiranja i savetodavne usluge
+723: Usluge u vezi sa podacima
+724: Internet usluge
+725: Usluge u vezi sa računarima
+726: Usluge računarske podrške i savetovanja
+727: Usluge računarske mreže
+728: Usluge računarske revizije i ispitivanja
+729: Usluge računarskog sigurnosnog kopiranja (bekap) i kataloške konverzije
+731: Usluge u oblasti istraživanja i eksperimentalnog razvoja
+732: Savetodavne usluge u oblasti istraživanja i razvoja
+733: Planiranje i sprovođenje istraživanja i razvoja
+734: Usluge istraživanja i razvoja kod bezbednosnih i odbrambenih materijala
+751: Usluge uprave
+752: Pružanje usluga zajednici
+753: Usluge obaveznog socijalnog osiguranja
+761: Profesionalne usluge u industriji gasa
+762: Profesionalne usluge za naftnu industriju
+763: Usluge bušenja
+764: Usluge određivanja položaja platforme
+765: Usluge na kopnu i na moru
+766: Usluge pregleda cevovoda
+771: Usluge u oblasti poljoprivrede
+772: Šumarske usluge
+773: Usluge u oblasti hortikulture
+774: Usluge u oblasti zoologije
+775: Usluge uzgoja životinja
+776: Usluge u lovu
+777: Usluge povezane sa ribarstvom
+778: Usluge akvakulture
+779: Usluge pčelarstva
+791: Pravne usluge
+792: Računovodstvene, revizorske i poreske usluge
+793: Usluge istraživanja tržišta i privrede; anketiranje i statistički podaci
+794: Usluge savetovanja u poslovanju i upravljanju i srodne usluge
+795: Pomoćne kancelarijske usluge
+796: Usluge zapošljavanja
+797: Usluge istrage i obezbeđenja
+798: Usluge štampanja i srodne usluge
+799: Razne poslovne usluge i usluge povezane sa poslovanjem
+801: Usluge osnovnog obrazovanja
+802: Usluge srednjeg obrazovanja
+803: Usluge visokog obrazovanja
+804: Usluge obrazovanja odraslih i druge usluge obrazovanja
+805: Usluge obuke
+806: Usluge obuke u oblasti odbrambenih i bezbednosnih sredstava
+851: Zdravstvene usluge
+852: Veterinarske usluge
+853: Usluge socijalne zaštite i srodne usluge
+904: Usluge kanalizacije
+905: Usluge u vezi sa otpacima i otpadom
+906: Usluge čišćenja i sanitarne usluge u gradskim i seoskim sredinama i srodne usluge
+907: Usluge u oblasti zaštite životne sredine
+909: Usluge čišćenja i sanitacije
+921: Filmske i video usluge
+922: Usluge radija i televizije
+923: Zabavne usluge
+924: Usluge novinske agencije
+925: Usluge biblioteke, arhiva, muzeja i druge usluge u oblasti kulture
+926: Usluge u oblasti sporta
+927: Usluge internet kafea
+981: Usluge članskih organizacija
+982: Usluge savetovanja o jednakim pravima
+983: Razne usluge
+985: Privatna domaćinstva sa zaposlenim osobljem
+989: Usluge koje pružaju ekstrateritorijalne organizacije i tela

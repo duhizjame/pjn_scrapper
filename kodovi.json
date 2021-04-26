@@ -1,0 +1,2178 @@
+[
+    {
+        "Id": 2,
+        "Number": "03100000",
+        "Name": "Poljoprivredni i hortikulturni proizvodi",
+        "Parent": "03000000",
+        "RootCpv": "031",
+        "Level": 2
+    },
+    {
+        "Id": 59,
+        "Number": "03200000",
+        "Name": "Žitarice, krompir, povrće, voće i orašasti plodovi",
+        "Parent": "03000000",
+        "RootCpv": "032",
+        "Level": 2
+    },
+    {
+        "Id": 150,
+        "Number": "03300000",
+        "Name": "Proizvodi stočarstva, lova i ribolova",
+        "Parent": "03000000",
+        "RootCpv": "033",
+        "Level": 2
+    },
+    {
+        "Id": 198,
+        "Number": "03400000",
+        "Name": "Proizvodi šumarstva i seče drva",
+        "Parent": "03000000",
+        "RootCpv": "034",
+        "Level": 2
+    },
+    {
+        "Id": 232,
+        "Number": "09100000",
+        "Name": "Goriva",
+        "Parent": "09000000",
+        "RootCpv": "091",
+        "Level": 2
+    },
+    {
+        "Id": 274,
+        "Number": "09200000",
+        "Name": "Proizvodi od nafte, uglja i ulja",
+        "Parent": "09000000",
+        "RootCpv": "092",
+        "Level": 2
+    },
+    {
+        "Id": 308,
+        "Number": "09300000",
+        "Name": "Električna energija, energija za grejanje, solarna i nuklearna energija",
+        "Parent": "09000000",
+        "RootCpv": "093",
+        "Level": 2
+    },
+    {
+        "Id": 326,
+        "Number": "14200000",
+        "Name": "Pesak i glina",
+        "Parent": "14000000",
+        "RootCpv": "142",
+        "Level": 2
+    },
+    {
+        "Id": 351,
+        "Number": "14300000",
+        "Name": "Minerali za hemijsku industriju i veštačka đubriva",
+        "Parent": "14000000",
+        "RootCpv": "143",
+        "Level": 2
+    },
+    {
+        "Id": 360,
+        "Number": "14400000",
+        "Name": "So i čisti natrijum hlorid",
+        "Parent": "14000000",
+        "RootCpv": "144",
+        "Level": 2
+    },
+    {
+        "Id": 365,
+        "Number": "14500000",
+        "Name": "Proizvodi srodni rudarstvu i eksploataciji kamena",
+        "Parent": "14000000",
+        "RootCpv": "145",
+        "Level": 2
+    },
+    {
+        "Id": 382,
+        "Number": "14600000",
+        "Name": "Rude i legure metala",
+        "Parent": "14000000",
+        "RootCpv": "146",
+        "Level": 2
+    },
+    {
+        "Id": 405,
+        "Number": "14700000",
+        "Name": "Prosti metali",
+        "Parent": "14000000",
+        "RootCpv": "147",
+        "Level": 2
+    },
+    {
+        "Id": 458,
+        "Number": "14800000",
+        "Name": "Razni nemetalni mineralni proizvodi",
+        "Parent": "14000000",
+        "RootCpv": "148",
+        "Level": 2
+    },
+    {
+        "Id": 469,
+        "Number": "14900000",
+        "Name": "Obnovljene sekundarne sirovine",
+        "Parent": "14000000",
+        "RootCpv": "149",
+        "Level": 2
+    },
+    {
+        "Id": 474,
+        "Number": "15100000",
+        "Name": "Proizvodi životinjskog porekla, meso i mesni proizvodi",
+        "Parent": "15000000",
+        "RootCpv": "151",
+        "Level": 2
+    },
+    {
+        "Id": 528,
+        "Number": "15200000",
+        "Name": "Pripremljena i konzervisana riba",
+        "Parent": "15000000",
+        "RootCpv": "152",
+        "Level": 2
+    },
+    {
+        "Id": 562,
+        "Number": "15300000",
+        "Name": "Voće, povrće i srodni proizvodi",
+        "Parent": "15000000",
+        "RootCpv": "153",
+        "Level": 2
+    },
+    {
+        "Id": 656,
+        "Number": "15400000",
+        "Name": "Životinjska ili biljna ulja i masti",
+        "Parent": "15000000",
+        "RootCpv": "154",
+        "Level": 2
+    },
+    {
+        "Id": 681,
+        "Number": "15500000",
+        "Name": "Mlečni proizvodi",
+        "Parent": "15000000",
+        "RootCpv": "155",
+        "Level": 2
+    },
+    {
+        "Id": 723,
+        "Number": "15600000",
+        "Name": "Mlinarski proizvodi, skrob i skrobni proizvodi",
+        "Parent": "15000000",
+        "RootCpv": "156",
+        "Level": 2
+    },
+    {
+        "Id": 769,
+        "Number": "15700000",
+        "Name": "Hrana za životinje",
+        "Parent": "15000000",
+        "RootCpv": "157",
+        "Level": 2
+    },
+    {
+        "Id": 774,
+        "Number": "15800000",
+        "Name": "Razni prehrambeni proizvodi",
+        "Parent": "15000000",
+        "RootCpv": "158",
+        "Level": 2
+    },
+    {
+        "Id": 905,
+        "Number": "15900000",
+        "Name": "Pića, duvan i srodni proizvodi",
+        "Parent": "15000000",
+        "RootCpv": "159",
+        "Level": 2
+    },
+    {
+        "Id": 951,
+        "Number": "16100000",
+        "Name": "Mašine za pripremanje i kultivisanje zemlje u poljoprivredi i šumarstvu",
+        "Parent": "16000000",
+        "RootCpv": "161",
+        "Level": 2
+    },
+    {
+        "Id": 959,
+        "Number": "16300000",
+        "Name": "Mašine za berbu ili žetvu",
+        "Parent": "16000000",
+        "RootCpv": "163",
+        "Level": 2
+    },
+    {
+        "Id": 967,
+        "Number": "16400000",
+        "Name": "Prskalice za poljoprivredu ili hortikulturu",
+        "Parent": "16000000",
+        "RootCpv": "164",
+        "Level": 2
+    },
+    {
+        "Id": 968,
+        "Number": "16500000",
+        "Name": "Samoutovarne ili istovarne prikolice i poluprikolice za poljoprivredne namene",
+        "Parent": "16000000",
+        "RootCpv": "165",
+        "Level": 2
+    },
+    {
+        "Id": 973,
+        "Number": "16600000",
+        "Name": "Specijalne poljoprivredne ili šumarske mašine",
+        "Parent": "16000000",
+        "RootCpv": "166",
+        "Level": 2
+    },
+    {
+        "Id": 987,
+        "Number": "16700000",
+        "Name": "Traktori",
+        "Parent": "16000000",
+        "RootCpv": "167",
+        "Level": 2
+    },
+    {
+        "Id": 991,
+        "Number": "16800000",
+        "Name": "Delovi mašina za poljoprivredu i šumarstvo",
+        "Parent": "16000000",
+        "RootCpv": "168",
+        "Level": 2
+    },
+    {
+        "Id": 995,
+        "Number": "18100000",
+        "Name": "Radna odeća, specijalna radna odeća i prateća oprema",
+        "Parent": "18000000",
+        "RootCpv": "181",
+        "Level": 2
+    },
+    {
+        "Id": 1007,
+        "Number": "18200000",
+        "Name": "Odeća za spoljne uslove",
+        "Parent": "18000000",
+        "RootCpv": "182",
+        "Level": 2
+    },
+    {
+        "Id": 1034,
+        "Number": "18300000",
+        "Name": "Odevni predmeti",
+        "Parent": "18000000",
+        "RootCpv": "183",
+        "Level": 2
+    },
+    {
+        "Id": 1057,
+        "Number": "18400000",
+        "Name": "Posebna odeća i prateća oprema",
+        "Parent": "18000000",
+        "RootCpv": "184",
+        "Level": 2
+    },
+    {
+        "Id": 1097,
+        "Number": "18500000",
+        "Name": "Nakit, satovi i srodni proizvodi",
+        "Parent": "18000000",
+        "RootCpv": "185",
+        "Level": 2
+    },
+    {
+        "Id": 1121,
+        "Number": "18600000",
+        "Name": "Krzna i proizvodi od krzna",
+        "Parent": "18000000",
+        "RootCpv": "186",
+        "Level": 2
+    },
+    {
+        "Id": 1127,
+        "Number": "18800000",
+        "Name": "Obuća",
+        "Parent": "18000000",
+        "RootCpv": "188",
+        "Level": 2
+    },
+    {
+        "Id": 1160,
+        "Number": "18900000",
+        "Name": "Prtljag, sedlarski proizvodi, vreće i torbe",
+        "Parent": "18000000",
+        "RootCpv": "189",
+        "Level": 2
+    },
+    {
+        "Id": 1189,
+        "Number": "19100000",
+        "Name": "Koža",
+        "Parent": "19000000",
+        "RootCpv": "191",
+        "Level": 2
+    },
+    {
+        "Id": 1203,
+        "Number": "19200000",
+        "Name": "Tkanine od tekstila i srodni proizvodi",
+        "Parent": "19000000",
+        "RootCpv": "192",
+        "Level": 2
+    },
+    {
+        "Id": 1234,
+        "Number": "19400000",
+        "Name": "Tekstilna prediva i konac",
+        "Parent": "19000000",
+        "RootCpv": "194",
+        "Level": 2
+    },
+    {
+        "Id": 1251,
+        "Number": "19500000",
+        "Name": "Gumeni i plastični materijali",
+        "Parent": "19000000",
+        "RootCpv": "195",
+        "Level": 2
+    },
+    {
+        "Id": 1269,
+        "Number": "19600000",
+        "Name": "Kožni, tekstilni, gumeni i plastični otpad",
+        "Parent": "19000000",
+        "RootCpv": "196",
+        "Level": 2
+    },
+    {
+        "Id": 1274,
+        "Number": "19700000",
+        "Name": "Sintetička guma i vlakna",
+        "Parent": "19000000",
+        "RootCpv": "197",
+        "Level": 2
+    },
+    {
+        "Id": 1286,
+        "Number": "22100000",
+        "Name": "Štampane knjige, brošure i leci",
+        "Parent": "22000000",
+        "RootCpv": "221",
+        "Level": 2
+    },
+    {
+        "Id": 1305,
+        "Number": "22200000",
+        "Name": "Novine, revije, periodične publikacije i časopisi",
+        "Parent": "22000000",
+        "RootCpv": "222",
+        "Level": 2
+    },
+    {
+        "Id": 1312,
+        "Number": "22300000",
+        "Name": "Razglednice, čestitke i drugi štampani materijal",
+        "Parent": "22000000",
+        "RootCpv": "223",
+        "Level": 2
+    },
+    {
+        "Id": 1320,
+        "Number": "22400000",
+        "Name": "Marke, čekovi, novčanice, potvrde o izdatim deonicama, trgovački reklamni materijal, katalozi i priručnici",
+        "Parent": "22000000",
+        "RootCpv": "224",
+        "Level": 2
+    },
+    {
+        "Id": 1349,
+        "Number": "22500000",
+        "Name": "Štamparske ploče ili valjci ili druge podloge koje se koriste u štampanju",
+        "Parent": "22000000",
+        "RootCpv": "225",
+        "Level": 2
+    },
+    {
+        "Id": 1353,
+        "Number": "22600000",
+        "Name": "Mastilo",
+        "Parent": "22000000",
+        "RootCpv": "226",
+        "Level": 2
+    },
+    {
+        "Id": 1357,
+        "Number": "22800000",
+        "Name": "Registratori od hartije ili kartona, računovodstvene knjige, fascikle, obrasci i drugi štampani kancelarijski materijal",
+        "Parent": "22000000",
+        "RootCpv": "228",
+        "Level": 2
+    },
+    {
+        "Id": 1385,
+        "Number": "22900000",
+        "Name": "Razni štampani materijal",
+        "Parent": "22000000",
+        "RootCpv": "229",
+        "Level": 2
+    },
+    {
+        "Id": 1395,
+        "Number": "24100000",
+        "Name": "Gasovi",
+        "Parent": "24000000",
+        "RootCpv": "241",
+        "Level": 2
+    },
+    {
+        "Id": 1414,
+        "Number": "24200000",
+        "Name": "Boje i pigmenti",
+        "Parent": "24000000",
+        "RootCpv": "242",
+        "Level": 2
+    },
+    {
+        "Id": 1439,
+        "Number": "24300000",
+        "Name": "Osnovne neorganske i organske hemikalije",
+        "Parent": "24000000",
+        "RootCpv": "243",
+        "Level": 2
+    },
+    {
+        "Id": 1587,
+        "Number": "24400000",
+        "Name": "Đubriva i azotna jedinjenja",
+        "Parent": "24000000",
+        "RootCpv": "244",
+        "Level": 2
+    },
+    {
+        "Id": 1609,
+        "Number": "24500000",
+        "Name": "Plastične mase u primarnim oblicima",
+        "Parent": "24000000",
+        "RootCpv": "245",
+        "Level": 2
+    },
+    {
+        "Id": 1621,
+        "Number": "24600000",
+        "Name": "Eksplozivi",
+        "Parent": "24000000",
+        "RootCpv": "246",
+        "Level": 2
+    },
+    {
+        "Id": 1633,
+        "Number": "24900000",
+        "Name": "Fini i razni hemijski proizvodi",
+        "Parent": "24000000",
+        "RootCpv": "249",
+        "Level": 2
+    },
+    {
+        "Id": 1687,
+        "Number": "30100000",
+        "Name": "Kancelarijske mašine, oprema i zalihe osim računara, štampača i nameštaja",
+        "Parent": "30000000",
+        "RootCpv": "301",
+        "Level": 2
+    },
+    {
+        "Id": 1953,
+        "Number": "30200000",
+        "Name": "Računarska oprema i materijal",
+        "Parent": "30000000",
+        "RootCpv": "302",
+        "Level": 2
+    },
+    {
+        "Id": 2088,
+        "Number": "31100000",
+        "Name": "Električni motori, generatori i transformatori",
+        "Parent": "31000000",
+        "RootCpv": "311",
+        "Level": 2
+    },
+    {
+        "Id": 2147,
+        "Number": "31200000",
+        "Name": "Aparati za kontrolu i distribuciju električne energije",
+        "Parent": "31000000",
+        "RootCpv": "312",
+        "Level": 2
+    },
+    {
+        "Id": 2213,
+        "Number": "31300000",
+        "Name": "Izolovana žica i kablovi",
+        "Parent": "31000000",
+        "RootCpv": "313",
+        "Level": 2
+    },
+    {
+        "Id": 2235,
+        "Number": "31400000",
+        "Name": "Akumulatori, primarne ćelije i primarne baterije",
+        "Parent": "31000000",
+        "RootCpv": "314",
+        "Level": 2
+    },
+    {
+        "Id": 2247,
+        "Number": "31500000",
+        "Name": "Rasvetna oprema i električne svetiljke",
+        "Parent": "31000000",
+        "RootCpv": "315",
+        "Level": 2
+    },
+    {
+        "Id": 2316,
+        "Number": "31600000",
+        "Name": "Električna oprema i aparati",
+        "Parent": "31000000",
+        "RootCpv": "316",
+        "Level": 2
+    },
+    {
+        "Id": 2371,
+        "Number": "31700000",
+        "Name": "Elektronski, elektromehanički i elektrotehnički materijal",
+        "Parent": "31000000",
+        "RootCpv": "317",
+        "Level": 2
+    },
+    {
+        "Id": 2451,
+        "Number": "32200000",
+        "Name": "Predajnici za radio-telefoniju, radio-telegrafiju, radio-difuziju i televiziju",
+        "Parent": "32000000",
+        "RootCpv": "322",
+        "Level": 2
+    },
+    {
+        "Id": 2476,
+        "Number": "32300000",
+        "Name": "Televizijski i radio prijemnici i uređaji za snimanje ili reprodukciju zvuka ili slike",
+        "Parent": "32000000",
+        "RootCpv": "323",
+        "Level": 2
+    },
+    {
+        "Id": 2567,
+        "Number": "32400000",
+        "Name": "Mreže",
+        "Parent": "32000000",
+        "RootCpv": "324",
+        "Level": 2
+    },
+    {
+        "Id": 2602,
+        "Number": "32500000",
+        "Name": "Telekomunikaciona oprema i materijal",
+        "Parent": "32000000",
+        "RootCpv": "325",
+        "Level": 2
+    },
+    {
+        "Id": 2677,
+        "Number": "33100000",
+        "Name": "Medicinska oprema",
+        "Parent": "33000000",
+        "RootCpv": "331",
+        "Level": 2
+    },
+    {
+        "Id": 3027,
+        "Number": "33600000",
+        "Name": "Farmaceutski proizvodi",
+        "Parent": "33000000",
+        "RootCpv": "336",
+        "Level": 2
+    },
+    {
+        "Id": 3159,
+        "Number": "33700000",
+        "Name": "Proizvodi za ličnu negu",
+        "Parent": "33000000",
+        "RootCpv": "337",
+        "Level": 2
+    },
+    {
+        "Id": 3249,
+        "Number": "33900000",
+        "Name": "Oprema i materijal za obdukcije i mrtvačnice",
+        "Parent": "33000000",
+        "RootCpv": "339",
+        "Level": 2
+    },
+    {
+        "Id": 3318,
+        "Number": "34100000",
+        "Name": "Motorna vozila",
+        "Parent": "34000000",
+        "RootCpv": "341",
+        "Level": 2
+    },
+    {
+        "Id": 3405,
+        "Number": "34200000",
+        "Name": "Karoserije za vozila, prikolice ili poluprikolice",
+        "Parent": "34000000",
+        "RootCpv": "342",
+        "Level": 2
+    },
+    {
+        "Id": 3431,
+        "Number": "34300000",
+        "Name": "Delovi i pribor za vozila i njihove motore",
+        "Parent": "34000000",
+        "RootCpv": "343",
+        "Level": 2
+    },
+    {
+        "Id": 3481,
+        "Number": "34400000",
+        "Name": "Motocikli, bicikli i bočne prikolice",
+        "Parent": "34000000",
+        "RootCpv": "344",
+        "Level": 2
+    },
+    {
+        "Id": 3494,
+        "Number": "34500000",
+        "Name": "Brodovi i čamci",
+        "Parent": "34000000",
+        "RootCpv": "345",
+        "Level": 2
+    },
+    {
+        "Id": 3556,
+        "Number": "34600000",
+        "Name": "Železničke i tramvajske lokomotive i šinska vozila i pripadajući delovi",
+        "Parent": "34000000",
+        "RootCpv": "346",
+        "Level": 2
+    },
+    {
+        "Id": 3583,
+        "Number": "34700000",
+        "Name": "Vazduhoplovi i svemirske letelice",
+        "Parent": "34000000",
+        "RootCpv": "347",
+        "Level": 2
+    },
+    {
+        "Id": 3620,
+        "Number": "34900000",
+        "Name": "Razna oprema za prevoz i rezervni delovi",
+        "Parent": "34000000",
+        "RootCpv": "349",
+        "Level": 2
+    },
+    {
+        "Id": 3786,
+        "Number": "35100000",
+        "Name": "Sigurnosna oprema i oprema za vanredne situacije",
+        "Parent": "35000000",
+        "RootCpv": "351",
+        "Level": 2
+    },
+    {
+        "Id": 3842,
+        "Number": "35200000",
+        "Name": "Policijska oprema",
+        "Parent": "35000000",
+        "RootCpv": "352",
+        "Level": 2
+    },
+    {
+        "Id": 3853,
+        "Number": "35300000",
+        "Name": "Oružje, municija i pripadajući delovi",
+        "Parent": "35000000",
+        "RootCpv": "353",
+        "Level": 2
+    },
+    {
+        "Id": 3890,
+        "Number": "35400000",
+        "Name": "Vojna vozila i pripadajući delovi",
+        "Parent": "35000000",
+        "RootCpv": "354",
+        "Level": 2
+    },
+    {
+        "Id": 3905,
+        "Number": "35500000",
+        "Name": "Ratni brodovi i pripadajući delovi",
+        "Parent": "35000000",
+        "RootCpv": "355",
+        "Level": 2
+    },
+    {
+        "Id": 3926,
+        "Number": "35600000",
+        "Name": "Vojni avioni, rakete i svemirske letelice",
+        "Parent": "35000000",
+        "RootCpv": "356",
+        "Level": 2
+    },
+    {
+        "Id": 3968,
+        "Number": "35700000",
+        "Name": "Vojni elektronski sistemi",
+        "Parent": "35000000",
+        "RootCpv": "357",
+        "Level": 2
+    },
+    {
+        "Id": 3978,
+        "Number": "35800000",
+        "Name": "Individualna oprema i oprema za podršku",
+        "Parent": "35000000",
+        "RootCpv": "358",
+        "Level": 2
+    },
+    {
+        "Id": 3996,
+        "Number": "37300000",
+        "Name": "Muzički instrumenti i delovi",
+        "Parent": "37000000",
+        "RootCpv": "373",
+        "Level": 2
+    },
+    {
+        "Id": 4066,
+        "Number": "37400000",
+        "Name": "Sportska roba i oprema",
+        "Parent": "37000000",
+        "RootCpv": "374",
+        "Level": 2
+    },
+    {
+        "Id": 4266,
+        "Number": "37500000",
+        "Name": "Igrice i igračke; predmeti u zabavnim parkovima",
+        "Parent": "37000000",
+        "RootCpv": "375",
+        "Level": 2
+    },
+    {
+        "Id": 4321,
+        "Number": "37800000",
+        "Name": "Materijal za ručni rad i umetničko stvaranje",
+        "Parent": "37000000",
+        "RootCpv": "378",
+        "Level": 2
+    },
+    {
+        "Id": 4341,
+        "Number": "38100000",
+        "Name": "Navigacioni i meteorološki instrumenti",
+        "Parent": "38000000",
+        "RootCpv": "381",
+        "Level": 2
+    },
+    {
+        "Id": 4365,
+        "Number": "38200000",
+        "Name": "Geološki i geofizički instrumenti",
+        "Parent": "38000000",
+        "RootCpv": "382",
+        "Level": 2
+    },
+    {
+        "Id": 4382,
+        "Number": "38300000",
+        "Name": "Merni instrumenti",
+        "Parent": "38000000",
+        "RootCpv": "383",
+        "Level": 2
+    },
+    {
+        "Id": 4408,
+        "Number": "38400000",
+        "Name": "Instrumenti za proveru fizičkih svojstava",
+        "Parent": "38000000",
+        "RootCpv": "384",
+        "Level": 2
+    },
+    {
+        "Id": 4503,
+        "Number": "38500000",
+        "Name": "Aparati za proveru i ispitivanje",
+        "Parent": "38000000",
+        "RootCpv": "385",
+        "Level": 2
+    },
+    {
+        "Id": 4576,
+        "Number": "38600000",
+        "Name": "Optički instrumenti",
+        "Parent": "38000000",
+        "RootCpv": "386",
+        "Level": 2
+    },
+    {
+        "Id": 4621,
+        "Number": "38700000",
+        "Name": "Uređaji za beleženje vremena i slični aparati; parking satovi",
+        "Parent": "38000000",
+        "RootCpv": "387",
+        "Level": 2
+    },
+    {
+        "Id": 4628,
+        "Number": "38800000",
+        "Name": "Oprema za upravljanje industrijskim procesima i oprema za daljinsko upravljanje",
+        "Parent": "38000000",
+        "RootCpv": "388",
+        "Level": 2
+    },
+    {
+        "Id": 4633,
+        "Number": "38900000",
+        "Name": "Razni instrumenti za merenje ili ispitivanje",
+        "Parent": "38000000",
+        "RootCpv": "389",
+        "Level": 2
+    },
+    {
+        "Id": 4657,
+        "Number": "39100000",
+        "Name": "Nameštaj",
+        "Parent": "39000000",
+        "RootCpv": "391",
+        "Level": 2
+    },
+    {
+        "Id": 4758,
+        "Number": "39200000",
+        "Name": "Proizvodi za unutrašnje opremanje",
+        "Parent": "39000000",
+        "RootCpv": "392",
+        "Level": 2
+    },
+    {
+        "Id": 4886,
+        "Number": "39300000",
+        "Name": "Razna oprema",
+        "Parent": "39000000",
+        "RootCpv": "393",
+        "Level": 2
+    },
+    {
+        "Id": 4901,
+        "Number": "39500000",
+        "Name": "Tekstilni proizvodi",
+        "Parent": "39000000",
+        "RootCpv": "395",
+        "Level": 2
+    },
+    {
+        "Id": 5012,
+        "Number": "39700000",
+        "Name": "Aparati za domaćinstvo",
+        "Parent": "39000000",
+        "RootCpv": "397",
+        "Level": 2
+    },
+    {
+        "Id": 5089,
+        "Number": "39800000",
+        "Name": "Proizvodi za čišćenje i poliranje",
+        "Parent": "39000000",
+        "RootCpv": "398",
+        "Level": 2
+    },
+    {
+        "Id": 5125,
+        "Number": "41100000",
+        "Name": "Prirodna voda",
+        "Parent": "41000000",
+        "RootCpv": "411",
+        "Level": 2
+    },
+    {
+        "Id": 5129,
+        "Number": "42100000",
+        "Name": "Mašine za proizvodnju i korišćenje mehaničke energije",
+        "Parent": "42000000",
+        "RootCpv": "421",
+        "Level": 2
+    },
+    {
+        "Id": 5293,
+        "Number": "42200000",
+        "Name": "Mašine za preradu hrane, pića i duvana i pripadajući delovi",
+        "Parent": "42000000",
+        "RootCpv": "422",
+        "Level": 2
+    },
+    {
+        "Id": 5316,
+        "Number": "42300000",
+        "Name": "Industrijske ili laboratorijske peći, peći za spaljivanje i pećnice",
+        "Parent": "42000000",
+        "RootCpv": "423",
+        "Level": 2
+    },
+    {
+        "Id": 5324,
+        "Number": "42400000",
+        "Name": "Oprema za dizanje i rukovanje teretom i delovi",
+        "Parent": "42000000",
+        "RootCpv": "424",
+        "Level": 2
+    },
+    {
+        "Id": 5407,
+        "Number": "42500000",
+        "Name": "Rashladni uređaji i oprema za ventilaciju",
+        "Parent": "42000000",
+        "RootCpv": "425",
+        "Level": 2
+    },
+    {
+        "Id": 5441,
+        "Number": "42600000",
+        "Name": "Mašine alatke",
+        "Parent": "42000000",
+        "RootCpv": "426",
+        "Level": 2
+    },
+    {
+        "Id": 5502,
+        "Number": "42700000",
+        "Name": "Mašine za proizvodnju tekstila, odeće i kože",
+        "Parent": "42000000",
+        "RootCpv": "427",
+        "Level": 2
+    },
+    {
+        "Id": 5521,
+        "Number": "42800000",
+        "Name": "Mašine za proizvodnju hartije  ili kartona",
+        "Parent": "42000000",
+        "RootCpv": "428",
+        "Level": 2
+    },
+    {
+        "Id": 5523,
+        "Number": "42900000",
+        "Name": "Razni uređaji opšte i posebne namene",
+        "Parent": "42000000",
+        "RootCpv": "429",
+        "Level": 2
+    },
+    {
+        "Id": 5681,
+        "Number": "43100000",
+        "Name": "Rudarska oprema",
+        "Parent": "43000000",
+        "RootCpv": "431",
+        "Level": 2
+    },
+    {
+        "Id": 5715,
+        "Number": "43200000",
+        "Name": "Mašine za zemljane radove i iskopavanje i pripadajući delovi",
+        "Parent": "43000000",
+        "RootCpv": "432",
+        "Level": 2
+    },
+    {
+        "Id": 5731,
+        "Number": "43300000",
+        "Name": "Građevinske mašine i oprema",
+        "Parent": "43000000",
+        "RootCpv": "433",
+        "Level": 2
+    },
+    {
+        "Id": 5758,
+        "Number": "43400000",
+        "Name": "Mašine za preradu minerala i izradu livničkih kalupa",
+        "Parent": "43000000",
+        "RootCpv": "434",
+        "Level": 2
+    },
+    {
+        "Id": 5768,
+        "Number": "43500000",
+        "Name": "Vozila za polaganje koloseka",
+        "Parent": "43000000",
+        "RootCpv": "435",
+        "Level": 2
+    },
+    {
+        "Id": 5769,
+        "Number": "43600000",
+        "Name": "Delovi mašina za rudarstvo, kamenolome i građevinarstvo",
+        "Parent": "43000000",
+        "RootCpv": "436",
+        "Level": 2
+    },
+    {
+        "Id": 5795,
+        "Number": "43700000",
+        "Name": "Mašine za metalurgiju i pripadajući delovi",
+        "Parent": "43000000",
+        "RootCpv": "437",
+        "Level": 2
+    },
+    {
+        "Id": 5800,
+        "Number": "43800000",
+        "Name": "Oprema za radionice",
+        "Parent": "43000000",
+        "RootCpv": "438",
+        "Level": 2
+    },
+    {
+        "Id": 5808,
+        "Number": "44100000",
+        "Name": "Građevinski materijali i pripadajući proizvodi",
+        "Parent": "44000000",
+        "RootCpv": "441",
+        "Level": 2
+    },
+    {
+        "Id": 5968,
+        "Number": "44200000",
+        "Name": "Konstrukcioni proizvodi",
+        "Parent": "44000000",
+        "RootCpv": "442",
+        "Level": 2
+    },
+    {
+        "Id": 6048,
+        "Number": "44300000",
+        "Name": "Kablovi, žice i srodni proizvodi",
+        "Parent": "44000000",
+        "RootCpv": "443",
+        "Level": 2
+    },
+    {
+        "Id": 6083,
+        "Number": "44400000",
+        "Name": "Razni gotovi proizvodi i srodni artikli",
+        "Parent": "44000000",
+        "RootCpv": "444",
+        "Level": 2
+    },
+    {
+        "Id": 6164,
+        "Number": "44500000",
+        "Name": "Alati, brave, ključevi, šarke, spojni elementi, lanci i opruge",
+        "Parent": "44000000",
+        "RootCpv": "445",
+        "Level": 2
+    },
+    {
+        "Id": 6239,
+        "Number": "44600000",
+        "Name": "Cisterne, rezervoari i kontejneri; radijatori za centralno grejanje i kotlovi",
+        "Parent": "44000000",
+        "RootCpv": "446",
+        "Level": 2
+    },
+    {
+        "Id": 6304,
+        "Number": "44800000",
+        "Name": "Boje, lakovi i smole",
+        "Parent": "44000000",
+        "RootCpv": "448",
+        "Level": 2
+    },
+    {
+        "Id": 6326,
+        "Number": "44900000",
+        "Name": "Građevinski kamen, krečnjak, gips i škriljac",
+        "Parent": "44000000",
+        "RootCpv": "449",
+        "Level": 2
+    },
+    {
+        "Id": 6347,
+        "Number": "45100000",
+        "Name": "Priprema gradilišta",
+        "Parent": "45000000",
+        "RootCpv": "451",
+        "Level": 2
+    },
+    {
+        "Id": 6402,
+        "Number": "45200000",
+        "Name": "Radovi na objektima ili delovima objekata visokogradnje i niskogradnje",
+        "Parent": "45000000",
+        "RootCpv": "452",
+        "Level": 2
+    },
+    {
+        "Id": 7016,
+        "Number": "45300000",
+        "Name": "Radovi na građevinskim instalacijama",
+        "Parent": "45000000",
+        "RootCpv": "453",
+        "Level": 2
+    },
+    {
+        "Id": 7096,
+        "Number": "45400000",
+        "Name": "Završni građevinski radovi",
+        "Parent": "45000000",
+        "RootCpv": "454",
+        "Level": 2
+    },
+    {
+        "Id": 7165,
+        "Number": "45500000",
+        "Name": "Iznajmljivanje mehanizacije i opreme za visokogradnju i niskogradnju sa operaterom",
+        "Parent": "45000000",
+        "RootCpv": "455",
+        "Level": 2
+    },
+    {
+        "Id": 7169,
+        "Number": "48100000",
+        "Name": "Programski paketi za industriju",
+        "Parent": "48000000",
+        "RootCpv": "481",
+        "Level": 2
+    },
+    {
+        "Id": 7184,
+        "Number": "48200000",
+        "Name": "Programski paket za umrežavanje, internet i intranet",
+        "Parent": "48000000",
+        "RootCpv": "482",
+        "Level": 2
+    },
+    {
+        "Id": 7211,
+        "Number": "48300000",
+        "Name": "Programski paket za izradu dokumenata, crtanje, slikovni prikaz, vremensko planiranje i produktivnost",
+        "Parent": "48000000",
+        "RootCpv": "483",
+        "Level": 2
+    },
+    {
+        "Id": 7240,
+        "Number": "48400000",
+        "Name": "Programski paket za poslovne transakcije i lično poslovanje",
+        "Parent": "48000000",
+        "RootCpv": "484",
+        "Level": 2
+    },
+    {
+        "Id": 7266,
+        "Number": "48500000",
+        "Name": "Komunikacioni i multimedijski programski paket",
+        "Parent": "48000000",
+        "RootCpv": "485",
+        "Level": 2
+    },
+    {
+        "Id": 7280,
+        "Number": "48600000",
+        "Name": "Programski paket za baze podataka i operativni programski paket",
+        "Parent": "48000000",
+        "RootCpv": "486",
+        "Level": 2
+    },
+    {
+        "Id": 7295,
+        "Number": "48700000",
+        "Name": "Podrška programskih paketa",
+        "Parent": "48000000",
+        "RootCpv": "487",
+        "Level": 2
+    },
+    {
+        "Id": 7315,
+        "Number": "48800000",
+        "Name": "Informacioni sistemi i serveri",
+        "Parent": "48000000",
+        "RootCpv": "488",
+        "Level": 2
+    },
+    {
+        "Id": 7334,
+        "Number": "48900000",
+        "Name": "Razni programski paketi i računarski sistemi",
+        "Parent": "48000000",
+        "RootCpv": "489",
+        "Level": 2
+    },
+    {
+        "Id": 7367,
+        "Number": "50100000",
+        "Name": "Usluge popravki, održavanja i srodne usluge za vozila i pripadajuću opremu",
+        "Parent": "50000000",
+        "RootCpv": "501",
+        "Level": 2
+    },
+    {
+        "Id": 7408,
+        "Number": "50200000",
+        "Name": "Usluge popravke, održavanja i srodne usluge za opremu vazduhoplova, železničkih pruga, puteva i pomorske opreme",
+        "Parent": "50000000",
+        "RootCpv": "502",
+        "Level": 2
+    },
+    {
+        "Id": 7451,
+        "Number": "50300000",
+        "Name": "Usluge popravke, održavanja i srodne usluge za personalne računare, kancelarijsku opremu, telekomunikacije i audiovizuelnu opremu",
+        "Parent": "50000000",
+        "RootCpv": "503",
+        "Level": 2
+    },
+    {
+        "Id": 7511,
+        "Number": "50400000",
+        "Name": "Usluge popravke i održavanja medicinske i precizne opreme",
+        "Parent": "50000000",
+        "RootCpv": "504",
+        "Level": 2
+    },
+    {
+        "Id": 7532,
+        "Number": "50500000",
+        "Name": "Usluge popravke i održavanja pumpi, ventila, slavina i metalnih kontejnera i uređaja",
+        "Parent": "50000000",
+        "RootCpv": "505",
+        "Level": 2
+    },
+    {
+        "Id": 7556,
+        "Number": "50600000",
+        "Name": "Usluge popravke i održavanja odbrambenih i bezbednosnih sredstava",
+        "Parent": "50000000",
+        "RootCpv": "506",
+        "Level": 2
+    },
+    {
+        "Id": 7563,
+        "Number": "50700000",
+        "Name": "Usluge popravke i održavanja instalacija u zgradama",
+        "Parent": "50000000",
+        "RootCpv": "507",
+        "Level": 2
+    },
+    {
+        "Id": 7573,
+        "Number": "50800000",
+        "Name": "Razne usluge popravke i održavanja",
+        "Parent": "50000000",
+        "RootCpv": "508",
+        "Level": 2
+    },
+    {
+        "Id": 7591,
+        "Number": "51100000",
+        "Name": "Usluge instaliranja električne i mehaničke opreme",
+        "Parent": "51000000",
+        "RootCpv": "511",
+        "Level": 2
+    },
+    {
+        "Id": 7618,
+        "Number": "51200000",
+        "Name": "Usluge instaliranja opreme za merenje, kontrolu, ispitivanje i navigaciju",
+        "Parent": "51000000",
+        "RootCpv": "512",
+        "Level": 2
+    },
+    {
+        "Id": 7630,
+        "Number": "51300000",
+        "Name": "Usluge instaliranja komunikacione opreme",
+        "Parent": "51000000",
+        "RootCpv": "513",
+        "Level": 2
+    },
+    {
+        "Id": 7642,
+        "Number": "51400000",
+        "Name": "Usluge instaliranja medicinske i hirurške opreme",
+        "Parent": "51000000",
+        "RootCpv": "514",
+        "Level": 2
+    },
+    {
+        "Id": 7652,
+        "Number": "51500000",
+        "Name": "Usluge instaliranja uređaja i opreme",
+        "Parent": "51000000",
+        "RootCpv": "515",
+        "Level": 2
+    },
+    {
+        "Id": 7687,
+        "Number": "51600000",
+        "Name": "Usluge instaliranja računara i kancelarijske opreme",
+        "Parent": "51000000",
+        "RootCpv": "516",
+        "Level": 2
+    },
+    {
+        "Id": 7695,
+        "Number": "51700000",
+        "Name": "Usluge instaliranja opreme za zaštitu od požara",
+        "Parent": "51000000",
+        "RootCpv": "517",
+        "Level": 2
+    },
+    {
+        "Id": 7696,
+        "Number": "51800000",
+        "Name": "Usluge instaliranja metalnih kontejnera",
+        "Parent": "51000000",
+        "RootCpv": "518",
+        "Level": 2
+    },
+    {
+        "Id": 7699,
+        "Number": "51900000",
+        "Name": "Usluge instaliranja sistema vođenja i upravljanja",
+        "Parent": "51000000",
+        "RootCpv": "519",
+        "Level": 2
+    },
+    {
+        "Id": 7701,
+        "Number": "55100000",
+        "Name": "Hotelske usluge",
+        "Parent": "55000000",
+        "RootCpv": "551",
+        "Level": 2
+    },
+    {
+        "Id": 7705,
+        "Number": "55200000",
+        "Name": "Kampovi i drugi smeštaj izuzev hotelskog",
+        "Parent": "55000000",
+        "RootCpv": "552",
+        "Level": 2
+    },
+    {
+        "Id": 7716,
+        "Number": "55300000",
+        "Name": "Usluge restorana i usluge posluživanja hranom",
+        "Parent": "55000000",
+        "RootCpv": "553",
+        "Level": 2
+    },
+    {
+        "Id": 7724,
+        "Number": "55400000",
+        "Name": "Usluge posluživanja pića i napitaka",
+        "Parent": "55000000",
+        "RootCpv": "554",
+        "Level": 2
+    },
+    {
+        "Id": 7726,
+        "Number": "55500000",
+        "Name": "Usluge menze i usluge dostavljanja pripremljenih obroka",
+        "Parent": "55000000",
+        "RootCpv": "555",
+        "Level": 2
+    },
+    {
+        "Id": 7738,
+        "Number": "55900000",
+        "Name": "Usluge trgovine na malo",
+        "Parent": "55000000",
+        "RootCpv": "559",
+        "Level": 2
+    },
+    {
+        "Id": 7740,
+        "Number": "60100000",
+        "Name": "Usluge drumskog prevoza",
+        "Parent": "60000000",
+        "RootCpv": "601",
+        "Level": 2
+    },
+    {
+        "Id": 7755,
+        "Number": "60200000",
+        "Name": "Usluge železničkog prevoza",
+        "Parent": "60000000",
+        "RootCpv": "602",
+        "Level": 2
+    },
+    {
+        "Id": 7758,
+        "Number": "60300000",
+        "Name": "Usluge cevovodnog transporta",
+        "Parent": "60000000",
+        "RootCpv": "603",
+        "Level": 2
+    },
+    {
+        "Id": 7759,
+        "Number": "60400000",
+        "Name": "Usluge avio-prevoza",
+        "Parent": "60000000",
+        "RootCpv": "604",
+        "Level": 2
+    },
+    {
+        "Id": 7777,
+        "Number": "60500000",
+        "Name": "Usluge svemirskog prevoza",
+        "Parent": "60000000",
+        "RootCpv": "605",
+        "Level": 2
+    },
+    {
+        "Id": 7780,
+        "Number": "60600000",
+        "Name": "Usluge prevoza vodnim putevima",
+        "Parent": "60000000",
+        "RootCpv": "606",
+        "Level": 2
+    },
+    {
+        "Id": 7795,
+        "Number": "63100000",
+        "Name": "Usluge rukovanja teretom i skladištenja tereta",
+        "Parent": "63000000",
+        "RootCpv": "631",
+        "Level": 2
+    },
+    {
+        "Id": 7806,
+        "Number": "63500000",
+        "Name": "Usluge putničkih agencija i tur-operatera i usluge pomoći turistima",
+        "Parent": "63000000",
+        "RootCpv": "635",
+        "Level": 2
+    },
+    {
+        "Id": 7819,
+        "Number": "63700000",
+        "Name": "Prateće usluge u kopnenom, vodenom i avio-prevozu",
+        "Parent": "63000000",
+        "RootCpv": "637",
+        "Level": 2
+    },
+    {
+        "Id": 7880,
+        "Number": "64100000",
+        "Name": "Poštanske i kurirske usluge",
+        "Parent": "64000000",
+        "RootCpv": "641",
+        "Level": 2
+    },
+    {
+        "Id": 7893,
+        "Number": "64200000",
+        "Name": "Telekomunikacione usluge",
+        "Parent": "64000000",
+        "RootCpv": "642",
+        "Level": 2
+    },
+    {
+        "Id": 7935,
+        "Number": "65100000",
+        "Name": "Distribucija vode i povezane usluge",
+        "Parent": "65000000",
+        "RootCpv": "651",
+        "Level": 2
+    },
+    {
+        "Id": 7943,
+        "Number": "65200000",
+        "Name": "Distribucija gasa i povezane usluge",
+        "Parent": "65000000",
+        "RootCpv": "652",
+        "Level": 2
+    },
+    {
+        "Id": 7945,
+        "Number": "65300000",
+        "Name": "Distribucija električne energije i povezane usluge",
+        "Parent": "65000000",
+        "RootCpv": "653",
+        "Level": 2
+    },
+    {
+        "Id": 7948,
+        "Number": "65400000",
+        "Name": "Ostali izvori snabdevanja i distribucije energije",
+        "Parent": "65000000",
+        "RootCpv": "654",
+        "Level": 2
+    },
+    {
+        "Id": 7950,
+        "Number": "65500000",
+        "Name": "Očitavanje brojila",
+        "Parent": "65000000",
+        "RootCpv": "655",
+        "Level": 2
+    },
+    {
+        "Id": 7952,
+        "Number": "66100000",
+        "Name": "Bankarske i investicione usluge",
+        "Parent": "66000000",
+        "RootCpv": "661",
+        "Level": 2
+    },
+    {
+        "Id": 7982,
+        "Number": "66500000",
+        "Name": "Usluge osiguranja i penzijske usluge",
+        "Parent": "66000000",
+        "RootCpv": "665",
+        "Level": 2
+    },
+    {
+        "Id": 8036,
+        "Number": "66600000",
+        "Name": "Usluge trezora",
+        "Parent": "66000000",
+        "RootCpv": "666",
+        "Level": 2
+    },
+    {
+        "Id": 8037,
+        "Number": "66700000",
+        "Name": "Usluge reosiguranja",
+        "Parent": "66000000",
+        "RootCpv": "667",
+        "Level": 2
+    },
+    {
+        "Id": 8041,
+        "Number": "70100000",
+        "Name": "Usluge poslovanja nekretninama sa vlastitom imovinom",
+        "Parent": "70000000",
+        "RootCpv": "701",
+        "Level": 2
+    },
+    {
+        "Id": 8058,
+        "Number": "70200000",
+        "Name": "Usluge davanja vlastite imovine u zakup ili na lizing",
+        "Parent": "70000000",
+        "RootCpv": "702",
+        "Level": 2
+    },
+    {
+        "Id": 8061,
+        "Number": "70300000",
+        "Name": "Agencijske usluge u poslovanju nekretninama po osnovu provizije ili po osnovu ugovora",
+        "Parent": "70000000",
+        "RootCpv": "703",
+        "Level": 2
+    },
+    {
+        "Id": 8077,
+        "Number": "71200000",
+        "Name": "Arhitektonske i srodne usluge",
+        "Parent": "71000000",
+        "RootCpv": "712",
+        "Level": 2
+    },
+    {
+        "Id": 8097,
+        "Number": "71300000",
+        "Name": "Tehničke usluge",
+        "Parent": "71000000",
+        "RootCpv": "713",
+        "Level": 2
+    },
+    {
+        "Id": 8222,
+        "Number": "71400000",
+        "Name": "Usluge prostornog planiranja i pejzažne arhitekture",
+        "Parent": "71000000",
+        "RootCpv": "714",
+        "Level": 2
+    },
+    {
+        "Id": 8226,
+        "Number": "71500000",
+        "Name": "Usluge u vezi sa građevinarstvom",
+        "Parent": "71000000",
+        "RootCpv": "715",
+        "Level": 2
+    },
+    {
+        "Id": 8234,
+        "Number": "71600000",
+        "Name": "Usluge tehničkog ispitivanja, analize i konsaltinga",
+        "Parent": "71000000",
+        "RootCpv": "716",
+        "Level": 2
+    },
+    {
+        "Id": 8255,
+        "Number": "71700000",
+        "Name": "Usluge praćenja i nadzora",
+        "Parent": "71000000",
+        "RootCpv": "717",
+        "Level": 2
+    },
+    {
+        "Id": 8258,
+        "Number": "71800000",
+        "Name": "Savetodavne usluge za vodosnabdevanje i otpadne vode",
+        "Parent": "71000000",
+        "RootCpv": "718",
+        "Level": 2
+    },
+    {
+        "Id": 8259,
+        "Number": "71900000",
+        "Name": "Laboratorijske usluge",
+        "Parent": "71000000",
+        "RootCpv": "719",
+        "Level": 2
+    },
+    {
+        "Id": 8261,
+        "Number": "72100000",
+        "Name": "Savetodavne usluge u vezi sa hardverom",
+        "Parent": "72000000",
+        "RootCpv": "721",
+        "Level": 2
+    },
+    {
+        "Id": 8267,
+        "Number": "72200000",
+        "Name": "Usluge programiranja i savetodavne usluge",
+        "Parent": "72000000",
+        "RootCpv": "722",
+        "Level": 2
+    },
+    {
+        "Id": 8452,
+        "Number": "72300000",
+        "Name": "Usluge u vezi sa podacima",
+        "Parent": "72000000",
+        "RootCpv": "723",
+        "Level": 2
+    },
+    {
+        "Id": 8474,
+        "Number": "72400000",
+        "Name": "Internet usluge",
+        "Parent": "72000000",
+        "RootCpv": "724",
+        "Level": 2
+    },
+    {
+        "Id": 8486,
+        "Number": "72500000",
+        "Name": "Usluge u vezi sa računarima",
+        "Parent": "72000000",
+        "RootCpv": "725",
+        "Level": 2
+    },
+    {
+        "Id": 8500,
+        "Number": "72600000",
+        "Name": "Usluge računarske podrške i savetovanja",
+        "Parent": "72000000",
+        "RootCpv": "726",
+        "Level": 2
+    },
+    {
+        "Id": 8503,
+        "Number": "72700000",
+        "Name": "Usluge računarske mreže",
+        "Parent": "72000000",
+        "RootCpv": "727",
+        "Level": 2
+    },
+    {
+        "Id": 8506,
+        "Number": "72800000",
+        "Name": "Usluge računarske revizije i ispitivanja",
+        "Parent": "72000000",
+        "RootCpv": "728",
+        "Level": 2
+    },
+    {
+        "Id": 8509,
+        "Number": "72900000",
+        "Name": "Usluge računarskog sigurnosnog kopiranja (bekap) i kataloške konverzije",
+        "Parent": "72000000",
+        "RootCpv": "729",
+        "Level": 2
+    },
+    {
+        "Id": 8513,
+        "Number": "73100000",
+        "Name": "Usluge u oblasti istraživanja i eksperimentalnog razvoja",
+        "Parent": "73000000",
+        "RootCpv": "731",
+        "Level": 2
+    },
+    {
+        "Id": 8518,
+        "Number": "73200000",
+        "Name": "Savetodavne usluge u oblasti istraživanja i razvoja",
+        "Parent": "73000000",
+        "RootCpv": "732",
+        "Level": 2
+    },
+    {
+        "Id": 8521,
+        "Number": "73300000",
+        "Name": "Planiranje i sprovođenje istraživanja i razvoja",
+        "Parent": "73000000",
+        "RootCpv": "733",
+        "Level": 2
+    },
+    {
+        "Id": 8522,
+        "Number": "73400000",
+        "Name": "Usluge istraživanja i razvoja kod bezbednosnih i odbrambenih materijala",
+        "Parent": "73000000",
+        "RootCpv": "734",
+        "Level": 2
+    },
+    {
+        "Id": 8539,
+        "Number": "75100000",
+        "Name": "Usluge uprave",
+        "Parent": "75000000",
+        "RootCpv": "751",
+        "Level": 2
+    },
+    {
+        "Id": 8555,
+        "Number": "75200000",
+        "Name": "Pružanje usluga zajednici",
+        "Parent": "75000000",
+        "RootCpv": "752",
+        "Level": 2
+    },
+    {
+        "Id": 8585,
+        "Number": "75300000",
+        "Name": "Usluge obaveznog socijalnog osiguranja",
+        "Parent": "75000000",
+        "RootCpv": "753",
+        "Level": 2
+    },
+    {
+        "Id": 8596,
+        "Number": "76100000",
+        "Name": "Profesionalne usluge u industriji gasa",
+        "Parent": "76000000",
+        "RootCpv": "761",
+        "Level": 2
+    },
+    {
+        "Id": 8601,
+        "Number": "76200000",
+        "Name": "Profesionalne usluge za naftnu industriju",
+        "Parent": "76000000",
+        "RootCpv": "762",
+        "Level": 2
+    },
+    {
+        "Id": 8608,
+        "Number": "76300000",
+        "Name": "Usluge bušenja",
+        "Parent": "76000000",
+        "RootCpv": "763",
+        "Level": 2
+    },
+    {
+        "Id": 8614,
+        "Number": "76400000",
+        "Name": "Usluge određivanja položaja platforme",
+        "Parent": "76000000",
+        "RootCpv": "764",
+        "Level": 2
+    },
+    {
+        "Id": 8647,
+        "Number": "76500000",
+        "Name": "Usluge na kopnu i na moru",
+        "Parent": "76000000",
+        "RootCpv": "765",
+        "Level": 2
+    },
+    {
+        "Id": 8661,
+        "Number": "76600000",
+        "Name": "Usluge pregleda cevovoda",
+        "Parent": "76000000",
+        "RootCpv": "766",
+        "Level": 2
+    },
+    {
+        "Id": 8663,
+        "Number": "77100000",
+        "Name": "Usluge u oblasti poljoprivrede",
+        "Parent": "77000000",
+        "RootCpv": "771",
+        "Level": 2
+    },
+    {
+        "Id": 8668,
+        "Number": "77200000",
+        "Name": "Šumarske usluge",
+        "Parent": "77000000",
+        "RootCpv": "772",
+        "Level": 2
+    },
+    {
+        "Id": 8689,
+        "Number": "77300000",
+        "Name": "Usluge u oblasti hortikulture",
+        "Parent": "77000000",
+        "RootCpv": "773",
+        "Level": 2
+    },
+    {
+        "Id": 8703,
+        "Number": "77400000",
+        "Name": "Usluge u oblasti zoologije",
+        "Parent": "77000000",
+        "RootCpv": "774",
+        "Level": 2
+    },
+    {
+        "Id": 8704,
+        "Number": "77500000",
+        "Name": "Usluge uzgoja životinja",
+        "Parent": "77000000",
+        "RootCpv": "775",
+        "Level": 2
+    },
+    {
+        "Id": 8706,
+        "Number": "77600000",
+        "Name": "Usluge u lovu",
+        "Parent": "77000000",
+        "RootCpv": "776",
+        "Level": 2
+    },
+    {
+        "Id": 8708,
+        "Number": "77700000",
+        "Name": "Usluge povezane sa ribarstvom",
+        "Parent": "77000000",
+        "RootCpv": "777",
+        "Level": 2
+    },
+    {
+        "Id": 8709,
+        "Number": "77800000",
+        "Name": "Usluge akvakulture",
+        "Parent": "77000000",
+        "RootCpv": "778",
+        "Level": 2
+    },
+    {
+        "Id": 8715,
+        "Number": "77900000",
+        "Name": "Usluge pčelarstva",
+        "Parent": "77000000",
+        "RootCpv": "779",
+        "Level": 2
+    },
+    {
+        "Id": 8717,
+        "Number": "79100000",
+        "Name": "Pravne usluge",
+        "Parent": "79000000",
+        "RootCpv": "791",
+        "Level": 2
+    },
+    {
+        "Id": 8730,
+        "Number": "79200000",
+        "Name": "Računovodstvene, revizorske i poreske usluge",
+        "Parent": "79000000",
+        "RootCpv": "792",
+        "Level": 2
+    },
+    {
+        "Id": 8748,
+        "Number": "79300000",
+        "Name": "Usluge istraživanja tržišta i privrede; anketiranje i statistički podaci",
+        "Parent": "79000000",
+        "RootCpv": "793",
+        "Level": 2
+    },
+    {
+        "Id": 8779,
+        "Number": "79400000",
+        "Name": "Usluge savetovanja u poslovanju i upravljanju i srodne usluge",
+        "Parent": "79000000",
+        "RootCpv": "794",
+        "Level": 2
+    },
+    {
+        "Id": 8800,
+        "Number": "79500000",
+        "Name": "Pomoćne kancelarijske usluge",
+        "Parent": "79000000",
+        "RootCpv": "795",
+        "Level": 2
+    },
+    {
+        "Id": 8815,
+        "Number": "79600000",
+        "Name": "Usluge zapošljavanja",
+        "Parent": "79000000",
+        "RootCpv": "796",
+        "Level": 2
+    },
+    {
+        "Id": 8832,
+        "Number": "79700000",
+        "Name": "Usluge istrage i obezbeđenja",
+        "Parent": "79000000",
+        "RootCpv": "797",
+        "Level": 2
+    },
+    {
+        "Id": 8845,
+        "Number": "79800000",
+        "Name": "Usluge štampanja i srodne usluge",
+        "Parent": "79000000",
+        "RootCpv": "798",
+        "Level": 2
+    },
+    {
+        "Id": 8860,
+        "Number": "79900000",
+        "Name": "Razne poslovne usluge i usluge povezane sa poslovanjem",
+        "Parent": "79000000",
+        "RootCpv": "799",
+        "Level": 2
+    },
+    {
+        "Id": 8916,
+        "Number": "80100000",
+        "Name": "Usluge osnovnog obrazovanja",
+        "Parent": "80000000",
+        "RootCpv": "801",
+        "Level": 2
+    },
+    {
+        "Id": 8918,
+        "Number": "80200000",
+        "Name": "Usluge srednjeg obrazovanja",
+        "Parent": "80000000",
+        "RootCpv": "802",
+        "Level": 2
+    },
+    {
+        "Id": 8922,
+        "Number": "80300000",
+        "Name": "Usluge visokog obrazovanja",
+        "Parent": "80000000",
+        "RootCpv": "803",
+        "Level": 2
+    },
+    {
+        "Id": 8927,
+        "Number": "80400000",
+        "Name": "Usluge obrazovanja odraslih i druge usluge obrazovanja",
+        "Parent": "80000000",
+        "RootCpv": "804",
+        "Level": 2
+    },
+    {
+        "Id": 8939,
+        "Number": "80500000",
+        "Name": "Usluge obuke",
+        "Parent": "80000000",
+        "RootCpv": "805",
+        "Level": 2
+    },
+    {
+        "Id": 8963,
+        "Number": "80600000",
+        "Name": "Usluge obuke u oblasti odbrambenih i bezbednosnih sredstava",
+        "Parent": "80000000",
+        "RootCpv": "806",
+        "Level": 2
+    },
+    {
+        "Id": 8971,
+        "Number": "85100000",
+        "Name": "Zdravstvene usluge",
+        "Parent": "85000000",
+        "RootCpv": "851",
+        "Level": 2
+    },
+    {
+        "Id": 9044,
+        "Number": "85200000",
+        "Name": "Veterinarske usluge",
+        "Parent": "85000000",
+        "RootCpv": "852",
+        "Level": 2
+    },
+    {
+        "Id": 9046,
+        "Number": "85300000",
+        "Name": "Usluge socijalne zaštite i srodne usluge",
+        "Parent": "85000000",
+        "RootCpv": "853",
+        "Level": 2
+    },
+    {
+        "Id": 9069,
+        "Number": "90400000",
+        "Name": "Usluge kanalizacije",
+        "Parent": "90000000",
+        "RootCpv": "904",
+        "Level": 2
+    },
+    {
+        "Id": 9082,
+        "Number": "90500000",
+        "Name": "Usluge u vezi sa otpacima i otpadom",
+        "Parent": "90000000",
+        "RootCpv": "905",
+        "Level": 2
+    },
+    {
+        "Id": 9130,
+        "Number": "90600000",
+        "Name": "Usluge čišćenja i sanitarne usluge u gradskim i seoskim sredinama i srodne usluge",
+        "Parent": "90000000",
+        "RootCpv": "906",
+        "Level": 2
+    },
+    {
+        "Id": 9144,
+        "Number": "90700000",
+        "Name": "Usluge u oblasti zaštite životne sredine",
+        "Parent": "90000000",
+        "RootCpv": "907",
+        "Level": 2
+    },
+    {
+        "Id": 9241,
+        "Number": "90900000",
+        "Name": "Usluge čišćenja i sanitacije",
+        "Parent": "90000000",
+        "RootCpv": "909",
+        "Level": 2
+    },
+    {
+        "Id": 9266,
+        "Number": "92100000",
+        "Name": "Filmske i video usluge",
+        "Parent": "92000000",
+        "RootCpv": "921",
+        "Level": 2
+    },
+    {
+        "Id": 9286,
+        "Number": "92200000",
+        "Name": "Usluge radija i televizije",
+        "Parent": "92000000",
+        "RootCpv": "922",
+        "Level": 2
+    },
+    {
+        "Id": 9304,
+        "Number": "92300000",
+        "Name": "Zabavne usluge",
+        "Parent": "92000000",
+        "RootCpv": "923",
+        "Level": 2
+    },
+    {
+        "Id": 9344,
+        "Number": "92400000",
+        "Name": "Usluge novinske agencije",
+        "Parent": "92000000",
+        "RootCpv": "924",
+        "Level": 2
+    },
+    {
+        "Id": 9345,
+        "Number": "92500000",
+        "Name": "Usluge biblioteke, arhiva, muzeja i druge usluge u oblasti kulture",
+        "Parent": "92000000",
+        "RootCpv": "925",
+        "Level": 2
+    },
+    {
+        "Id": 9364,
+        "Number": "92600000",
+        "Name": "Usluge u oblasti sporta",
+        "Parent": "92000000",
+        "RootCpv": "926",
+        "Level": 2
+    },
+    {
+        "Id": 9369,
+        "Number": "92700000",
+        "Name": "Usluge internet kafea",
+        "Parent": "92000000",
+        "RootCpv": "927",
+        "Level": 2
+    },
+    {
+        "Id": 9371,
+        "Number": "98100000",
+        "Name": "Usluge članskih organizacija",
+        "Parent": "98000000",
+        "RootCpv": "981",
+        "Level": 2
+    },
+    {
+        "Id": 9384,
+        "Number": "98200000",
+        "Name": "Usluge savetovanja o jednakim pravima",
+        "Parent": "98000000",
+        "RootCpv": "982",
+        "Level": 2
+    },
+    {
+        "Id": 9385,
+        "Number": "98300000",
+        "Name": "Razne usluge",
+        "Parent": "98000000",
+        "RootCpv": "983",
+        "Level": 2
+    },
+    {
+        "Id": 9443,
+        "Number": "98500000",
+        "Name": "Privatna domaćinstva sa zaposlenim osobljem",
+        "Parent": "98000000",
+        "RootCpv": "985",
+        "Level": 2
+    },
+    {
+        "Id": 9453,
+        "Number": "98900000",
+        "Name": "Usluge koje pružaju ekstrateritorijalne organizacije i tela",
+        "Parent": "98000000",
+        "RootCpv": "989",
+        "Level": 2
+    }
+]
